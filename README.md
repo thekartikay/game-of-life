@@ -10,4 +10,4 @@ Parallel implementation of Conway's Game of Life in Python using MPI. This imple
 The code was run on the GWU computing cluster
 
 ## Video:
-[![Game of Life](https://imgur.com/a/wtFXtzB)](https://www.youtube.com/watch?v=3TEKA_DT6Zg "Game of Life")
+[![Game of Life](https://img.youtube.com/vi/3TEKA_DT6Zg/default.jpg)](https://www.youtube.com/watch?v=3TEKA_DT6Zg "Game of Life")
