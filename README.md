@@ -1,5 +1,5 @@
 # Game of Life
-Parallel implementation of Conway's Game of Life in Python using MPI. This implementation was for academic purposes, it was a submission for my High Performance Computing class.  In the memory of [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) who sadly passed away on April 12th 2020.
+Parallel implementation of Conway's Game of Life in Python using MPI. This implementation was for academic purposes, it was a submission for my High Performance Computing class. I'm committing the submission in the memory of [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) who sadly passed away on April 11th 2020.
 
 ## Rules of the Automaton
 1. Any live cell with two or three live neighbors survives.
